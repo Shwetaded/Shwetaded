@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My portfolio website**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Devops, AI/ML**
 
 - 📫 How to reach me **shwetadedhe@gmail.com**
 
